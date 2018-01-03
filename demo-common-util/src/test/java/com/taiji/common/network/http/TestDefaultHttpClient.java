@@ -8,7 +8,7 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.kalian.thirdchannel.commons.exception.EStockThirdException;
+import com.taiji.common.exception.EStockThirdException;
 
 public class TestDefaultHttpClient {
 

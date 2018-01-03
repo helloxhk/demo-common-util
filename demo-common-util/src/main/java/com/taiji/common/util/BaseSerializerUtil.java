@@ -14,8 +14,8 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.taiji.common.util.string.StringUtils;
 import com.taiji.common.util.string.ZipStrUtil;
-import com.kalian.thirdchannel.commons.utils.Base64Coder;
-import com.kalian.thirdchannel.commons.utils.HexPlus;
+import com.taiji.common.utils.Base64Coder;
+import com.taiji.common.utils.HexPlus;
 
 public class BaseSerializerUtil {
 

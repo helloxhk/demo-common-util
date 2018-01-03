@@ -39,8 +39,8 @@ import org.apache.http.ssl.TrustStrategy;
 import org.apache.http.util.EntityUtils;
 import org.apache.log4j.Logger;
 
-import com.kalian.thirdchannel.commons.utils.CommonsConfig;
-import com.kalian.thirdchannel.commons.exception.EStockThirdException;
+import com.taiji.common.utils.CommonsConfig;
+import com.taiji.common.exception.EStockThirdException;
 
 /**
  * HTTP请求基类(基于httpclient4.0)

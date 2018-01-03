@@ -2,7 +2,7 @@ package com.taiji.common.secure;
 
 import org.junit.Test;
 
-import com.kalian.thirdchannel.commons.utils.HexPlus;
+import com.taiji.common.utils.HexPlus;
 
 public class DESUtilsTest {
 	

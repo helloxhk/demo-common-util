@@ -3,7 +3,7 @@ package com.taiji.common.util.security;
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
 
-import com.kalian.thirdchannel.commons.utils.CommonsConfig;
+import com.taiji.common.utils.CommonsConfig;
 import com.taiji.common.util.security.cipher.CipherHandlerImpl;
 
 /**

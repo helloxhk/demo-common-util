@@ -19,8 +19,8 @@ import java.security.spec.X509EncodedKeySpec;
 
 import javax.crypto.Cipher;
 
-import com.kalian.thirdchannel.commons.utils.Base64Coder;
-import com.kalian.thirdchannel.commons.utils.HexPlus;
+import com.taiji.common.utils.Base64Coder;
+import com.taiji.common.utils.HexPlus;
 
 /**
  * 

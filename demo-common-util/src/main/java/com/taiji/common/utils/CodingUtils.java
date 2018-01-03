@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 
 import org.apache.log4j.Logger;
 
-import com.kalian.thirdchannel.commons.utils.HexPlus;
+import com.taiji.common.utils.HexPlus;
 
 /**
  * 

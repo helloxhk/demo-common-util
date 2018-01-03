@@ -2,7 +2,7 @@ package com.taiji.common.network.socket;
 
 import org.junit.Test;
 
-import com.kalian.thirdchannel.commons.network.socket.BaseSocketClient;
+import com.taiji.common.network.socket.BaseSocketClient;
 
 public class TestBaseSocketClient {
 

@@ -11,9 +11,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 import org.apache.commons.lang.ArrayUtils;
 import org.apache.log4j.Logger;
 
-import com.kalian.thirdchannel.commons.utils.CommonsConfig;
-import com.kalian.thirdchannel.commons.utils.HexPlus;
-import com.kalian.thirdchannel.commons.utils.StringUtils;
+import com.taiji.common.utils.CommonsConfig;
+import com.taiji.common.utils.HexPlus;
+import com.taiji.common.utils.StringUtils;
 
 /**
  * Socket请求基类

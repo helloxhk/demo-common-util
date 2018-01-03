@@ -120,12 +120,6 @@
 		  <version>1.0.0-RELEASE</version>
 		</dependency>
 		
-		<dependency>
-		  <groupId>com.kalian.thirdchannel</groupId>
-		  <artifactId>kalian-thirdchannel-commons</artifactId>
-		  <version>1.0.7-RELEASE</version>
-		</dependency>
-		
 	</dependencies>
 	<build>
 		<plugins>

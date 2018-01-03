@@ -7,8 +7,8 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 
-import com.kalian.thirdchannel.commons.exception.BizException;
-import com.kalian.thirdchannel.commons.utils.MyXMLConfigParser;
+import com.taiji.common.exception.BizException;
+import com.taiji.common.utils.MyXMLConfigParser;
 
 public class CommonsConfig
 {

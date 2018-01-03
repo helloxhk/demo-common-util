@@ -1,6 +1,6 @@
 package com.taiji.common.interfaces;
 
-import com.kalian.thirdchannel.commons.bean.BaseObject;
+import com.taiji.common.bean.BaseObject;
 
 /**
  * web平台日志记录接口

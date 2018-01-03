@@ -9,7 +9,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
-import com.kalian.thirdchannel.commons.utils.Base64Coder;
+import com.taiji.common.utils.Base64Coder;
 
 /**
  * 

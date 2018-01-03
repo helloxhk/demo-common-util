@@ -6,7 +6,7 @@ import java.util.Map;
 
 import org.apache.http.NameValuePair;
 
-import com.kalian.thirdchannel.commons.exception.EStockThirdException;
+import com.taiji.common.exception.EStockThirdException;
 
 /**
  * 默认的httpclient发送器

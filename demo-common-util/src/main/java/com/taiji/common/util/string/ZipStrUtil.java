@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.GZIPOutputStream;
 
-import com.kalian.thirdchannel.commons.utils.Base64Coder;
+import com.taiji.common.utils.Base64Coder;
 
 public class ZipStrUtil {
 
