@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<import-properties key="common" value="/commons.properties" comment="公用"/>
+</root>
